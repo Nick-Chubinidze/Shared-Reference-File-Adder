@@ -1,0 +1,13 @@
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\obj\Debug\SharedReferenceFileAdder.Specs.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\SharedReferenceFileAdder.Specs.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\SharedReferenceFileAdder.Specs.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Moq.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\SharedReferenceFileAdder.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Autofac.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\SharedReferenceFileAdder.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Moq.xml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Autofac.xml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\obj\Debug\SharedReferenceFileAdder.Specs.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\obj\Debug\SharedReferenceFileAdder.Specs.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Shouldly.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder.Specs\bin\Debug\Shouldly.pdb

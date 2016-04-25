@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\bin\Debug\SharedReferenceFileAdder.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\bin\Debug\SharedReferenceFileAdder.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\bin\Debug\SharedReferenceFileAdder.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\bin\Debug\Autofac.dll
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\bin\Debug\Autofac.xml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.MainForm.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\SharedReferenceFileAdder\SharedReferenceFileAdder\obj\Debug\SharedReferenceFileAdder.csprojResolveAssemblyReference.cache
